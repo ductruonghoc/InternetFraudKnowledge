@@ -1,0 +1,24 @@
+4 CÁCH DỄ DÀNG
+Để Giữ An Toàn khi Trực Tuyến
+Thế giới trực tuyến của chúng ta cần được bảo vệ. Có những điều dễ dàng chúng ta có thể làm để đảm bảo thông tin của mình được an toàn trước những kẻ muốn đánh cắp chúng.
+Nhận biết và báo cáo hành vi lừa đảo
+Hầu hết các cuộc xâm nhập trực tuyến thành công đều bắt nguồn từ việc người nhận tin nhắn “lừa đảo” vô tình tải xuống phần mềm độc hại hoặc cung cấp thông tin cá nhân của họ cho người gửi thư rác. Không nhấp vào hoặc tham gia vào các nỗ lực lừa đảo này. 
+Thay vào đó, hãy nhận biết chúng qua cách sử dụng ngôn ngữ đáng báo động hoặc những lời đề nghị tốt đến mức khó tin.
+Báo cáo hành vi lừa đảo và xóa các tin nhắn lừa đảo.
+Sử dụng mật khẩu mạnh
+Mật khẩu đơn giản có thể dễ đoán. Hãy đặt mật khẩu dài ít nhất 16 ký tự, ngẫu nhiên và duy nhất cho mỗi tài khoản. Sử dụng trình quản lý mật khẩu, một chương trình bảo mật giúp duy trì và tạo mật khẩu. Chương trình dễ sử dụng này sẽ lưu trữ các mật khẩu và tự động điền chúng trên trang web.
+Bật tính năng xác thực đa yếu tố (MFA)
+Sử dụng MFA trên mọi trang web cung cấp tính năng này. MFA cung cấp một lớp bảo mật bổ sung ngoài mật khẩu khi đăng nhập vào các tài khoản và ứng dụng, như quét khuôn mặt hoặc mã được gửi bằng văn bản.
+Sử dụng MFA sẽ giảm khả năng bị tấn công mạng.
+Cập nhật phần mềm
+Khi các thiết bị, ứng dụng hoặc chương trình phần mềm (đặc biệt là phần mềm diệt virus) thông báo cho chúng ta rằng đã có sẵn bản cập nhật, chúng ta nên cài đặt chúng càng sớm càng tốt. Bản cập nhật đóng các lỗi mã bảo mật để bảo vệ dữ liệu của chúng ta tốt hơn.
+Hãy bật cập nhật tự động để khiến việc này trở nên dễ dàng hơn nữa.
+Thực hiện các bước này giúp
+Bảo Vệ Thế Giới của Chúng Ta.
+Tất cả chúng ta có thể giúp đỡ
+nhau trở nên an toàn hơn khi trực tuyến, vậy nên hãy chia sẻ các mẹo này với thành viên gia đình hoặc bạn bè.
+cisa.gov/SecureOurWorld
+cisa.gov	
+central 
+@cisa.dhs.gov, @CISA.gov, @CISACyber, @cisa.gov	
+As of August 14, 2023

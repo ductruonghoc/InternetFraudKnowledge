@@ -1,0 +1,2 @@
+"Secure Our World" – Bộ tài liệu hướng dẫn bảo mật trực tuyến (tiếng Việt, PDF)
+Bao gồm các tờ hướng dẫn quan trọng về Mật khẩu, Phishing, MFA, Cập nhật phần mềm… do CISA (Mỹ) xuất bản và đã được dịch sang tiếng Việt năm 2023
